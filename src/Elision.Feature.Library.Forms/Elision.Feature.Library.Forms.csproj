@@ -74,6 +74,7 @@
     <Compile Include="ValidateFormIdentifier.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Elision.Feature.Library.Forms.nuspec" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
