@@ -7,6 +7,7 @@
     <authors>jrondeau,PatrickDelancy</authors>
     <owners>jrondeau</owners>
     <projectUrl>https://github.com/sitecore-elision/elision-forms</projectUrl>
+    <iconUrl>https://image.ibb.co/ihBV7Q/Elision_Logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A series of helpers and utilites for working with forms in MVC.</description>
     <releaseNotes></releaseNotes>
